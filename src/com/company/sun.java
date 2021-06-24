@@ -4,5 +4,5 @@ public class sun {
     String heat;
     String radius;
     String Temperature;
-    int distance;
+   int surface;
 }
